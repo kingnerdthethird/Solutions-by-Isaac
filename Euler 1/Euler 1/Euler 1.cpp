@@ -14,7 +14,6 @@ int main(){
 		} //end if
 	}// end for
 
-
 	cout << sum << endl; //prints out the sum
 
 	system("PAUSE"); //added to pause program in the console
